@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning programming at a coding school and building projects mainly with React. While I focus on front-end, I'm also exploring other technologies to broaden my skills. I'm eager to grow as a developer and take on new challenges.
+I'm currently learning programming at a coding school and building projects mainly with React. I focus on front-end development and want to grow as a front-end developer, but I also know the basics of back-end and stay open to full-stack opportunities in the future. I'm always eager to learn and take on new challenges.
 
 
 ## 🌐 Socials:
